@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2202e56048ed6bf4eb47437fabdf9f6d
+timeCreated: 1495148553
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - carriedObject: {instanceID: 0}
+  - stomach: {instanceID: 0}
+  - Terminal: {fileID: 12800000, guid: 65b24efca0da1eb468eb965c64fb1d7d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
