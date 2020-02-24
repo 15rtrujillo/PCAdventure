@@ -1,4 +1,5 @@
 -- GAME INSTRUCTIONS --
+
 Objective: Find the trophy and place it on the pedestal in your home (yellow) castle to win!
 
 * W, A, S, and D move your character (the square)
@@ -13,6 +14,7 @@ Objective: Find the trophy and place it on the pedestal in your home (yellow) ca
 
 
 -- GAME INFO --
+
 This was the first Unity game I ever made.
 
 This game is based of the Atari 2600 game, Adventure, released in 1979 or 1980 (Wikipedia isn't sure).
